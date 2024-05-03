@@ -76,7 +76,7 @@ $result = $conn->query($sql);
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: darkseagreen;
+            background-color: #00215E;
         }
         .container {
             max-width: 80%;
@@ -87,7 +87,7 @@ $result = $conn->query($sql);
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         .reset-button {
-            background-color: #e6b759;
+            background-color: #FF6500;
             color: white;
             padding: 8px 20px 10px 20px;
             border: none;
